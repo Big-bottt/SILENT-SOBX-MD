@@ -18,11 +18,11 @@ module.exports = {
     ALIVE_MSG: process.env.ALIVE_MSG || "HII DEAR IM ONLINE I'M SILENT-SOBX-MD WHATSAPP BOT 😊♻️",
     ANTI_LINK: process.env.ANTI_LINK || "true",
     ANTI_BAD: process.env.ANTI_BAD || "true",
-    PREFIX: process.env.PREFIX || "!",
+    PREFIX: process.env.PREFIX || ".",
     FAKE_RECORDING: process.env.FAKE_RECORDING || "true",
     AUTO_REACT: process.env.AUTO_REACT || "true",
     HEART_REACT: process.env.HEART_REACT || "true",
     OWNER_REACT: process.env.OWNER_REACT || "true",
-    BOT_NAME: process.env.BOT_NAME || "➺ѕเℓεɳƭ_ℓσѵε૨࿐Gazo",
+    BOT_NAME: process.env.BOT_NAME || "➺ѕเℓεɳƭ_ℓσѵε૨࿐",
     OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
